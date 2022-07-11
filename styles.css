@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Neucha&display=swap');
+body {background: rgb(9, 233, 20);
+color:rgb(240, 1, 1);
+font-size: 40px;
+font-weight: 900;
+font-family: 'Neucha', Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2 {font-size: 50px;}
+p {font-size: 30px;}
+td {font-size: 20px;}
+.sanya {
+     width: 200px; 
+     border-radius: 28px; 
+     box-shadow: -14px -14px 25px rgb(0, 1, 1)}
+.top {
+    border-radius: 28px;
+    box-shadow: -14px -14px 25px rgb(0, 1, 1)}
+.info p {
+
+color:rgb(18, 32, 31);
+}
+.dds {
+    color: rgb(224, 45, 45);
+    background: rgb(146, 247, 14);
+    padding: 15px;
+    border: 10px solid rgb(28, 51, 66);
+    border-style: dotted;
+}
+.conteiner
+.foot  {
+    background: rgb(247, 166, 14);
+    padding: 15px;
+    border: 10px solid rgb(204, 35, 12);
+    border-style: dotted;
+}
+.spam >div{
+    background: rgb(247, 166, 14);
+    padding: 15px;
+    border: 10px solid rgb(204, 35, 12);
+    border-style: dotted;
+    float: left;
+    margin-top: 100px;
+    margin-bottom: 200px;
+    background-origin: padding-box;
+    background: rgb(19, 18, 18);
+    height: 200px;
+    border: 3px solid red;
+    width:25%;
+    box-sizing: border-box;
+}
+a {
+    color: rgb(43, 6, 253);
+    text-decoration:wavy;
+}
+a:hover {text-decoration:underline}
